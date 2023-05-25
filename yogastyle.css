@@ -397,6 +397,12 @@ h4{
         width: 90%;
         justify-content: space-evenly;
    }
+   .w3-bar .w3-bar-item {
+	font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+
+	}
 }
 
 /*Small screens - tablets*/
@@ -431,6 +437,12 @@ h4{
     .title{
         font-size: 36px;
     }
+	.w3-bar .w3-bar-item {
+	font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+
+}
 	
 }
 
